@@ -1,4 +1,4 @@
 interface:
-  display_name: "Video Editing"
+  display_name: "MotionRoom"
   short_description: "Resolve-first edits, captions and verified delivery"
   default_prompt: "Use $video-editing to review my footage and complete the requested edit while preserving my project organization."

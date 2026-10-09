@@ -2,7 +2,7 @@
 name: video-editing
 description: Review supplied footage, assemble selects, plan and execute edits in DaVinci Resolve, and prepare captions or motion graphics with verified outputs. Use for hands-on video editing and editorial planning; respect review-only requests.
 ---
-# Video Editing
+# MotionRoom
 
 A Resolve-first editorial workflow with optional specialist tools. This skill is instructions, not a Resolve plugin or a guarantee of autonomous control. Prefer the user's editor and existing project. Use only the tools needed for the requested result.
 

@@ -1,4 +1,6 @@
-# Video Editing
+# MotionRoom
+
+Video editing and production workflows for AI agents.
 
 A practical agent skill for footage review, editable video assembly, purposeful cutting, captions and motion design, with DaVinci Resolve as the preferred editor.
 
@@ -37,8 +39,10 @@ These are complementary projects selected for adoption and relevance, not a univ
 Clone this repository into your Codex skills directory as `video-editing`, taking care not to overwrite an existing installation:
 
 ```sh
-git clone https://github.com/7tanmaychaudhary-prog/video-editing.git ~/.codex/skills/video-editing
+git clone https://github.com/7tanmaychaudhary-prog/motionroom.git ~/.codex/skills/video-editing
 ```
+
+The repository is named MotionRoom. The installed skill keeps the `video-editing` identifier so existing invocations continue to work.
 
 The entry point is [SKILL.md](SKILL.md). It should be discoverable on your next turn. Other agents supporting Markdown skills may use it, but their integration has not been tested.
 
